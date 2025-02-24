@@ -1,4 +1,4 @@
-# Jogo de Adivinhação de Número Secreto
+# Jogo do Número Secreto
 
 Este projeto é um jogo interativo de adivinhação de número secreto desenvolvido durante o Programa ONE - Oracle Next Education promovido pela Alura. O jogo é implementado usando HTML, CSS e JavaScript.
 
